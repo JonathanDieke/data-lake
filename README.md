@@ -12,3 +12,5 @@ Pour ce faire, nous construisons un data lake après avoir chargé les données 
 - Le fichier rapport.pdf décrit les différentes étapes suivies afin de réaliser le data lake
 - Le notebook analyse-avec-spark.ipynb est un exemple de traitement (avec Spark) sur les données récupérés du data lake
 - Le fichier java ImportCatalogue.java est un programme permettant de charger les données d'un fichier .csv dans une table OracleNoSQL
+
+<img src="pres.png" />
